@@ -1,0 +1,2 @@
+set JAVA_HOME="C:\Users\Admin\git\hibernate-commandline-tools\CommandLineTools\lib"
+set JAVA_JAR=%JAVA_HOME%\antlr-2.7.7.jar;%JAVA_HOME%\dom4j-1.6.1.jar;%JAVA_HOME%\hibernate-commons-annotations-4.0.4.Final.jar;%JAVA_HOME%\hibernate-core-4.3.5.Final.jar;%JAVA_HOME%\hibernate-jpa-2.1-api-1.0.0.Final.jar;%JAVA_HOME%\jandex-1.1.0.Final;%JAVA_HOME%\javassist-3.18.1-GA.jar;%JAVA_HOME%\jboss-logging-3.1.3.GA.jar;%JAVA_HOME%\jboss-logging-annotations-1.2.0.Beta1.jar;%JAVA_HOME%\jboss-transaction-api_1.2_spec-1.0.0.Final.jar
